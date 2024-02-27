@@ -1,4 +1,7 @@
 ---
+title: Problem Statement
+---
+
 ## Problem Statement
 
 Given two sorted arrays, `a` and `b`, of size `n` and `m`, respectively, return the union of the arrays.
@@ -16,8 +19,6 @@ The union of two sorted arrays can be defined as an array consisting of the comm
 - `b` = [2, 3, 5]
 
 **Output:** [1, 2, 3, 4, 5, 6]
-
----
 
 ---
 

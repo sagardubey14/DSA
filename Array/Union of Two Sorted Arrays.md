@@ -1,5 +1,4 @@
 ---
-
 ## Problem Statement
 
 Given two sorted arrays, `a` and `b`, of size `n` and `m`, respectively, return the union of the arrays.
@@ -19,6 +18,7 @@ The union of two sorted arrays can be defined as an array consisting of the comm
 **Output:** [1, 2, 3, 4, 5, 6]
 
 ---
+
 ---
 
 ### Method 1: Using Dictionary for Frequency Count
